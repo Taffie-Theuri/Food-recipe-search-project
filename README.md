@@ -19,4 +19,19 @@ The project is a food recipe search web app. It enables the user to search for a
 3.JS
 4.mealDB API
 
+## How To Run the projects
+### Setup
+Run this command to get the backend started:
+
+$ json-server --watch db.json
+
+Then, open the index.html file on your browser to run the application.
+
+### Get copy of project 
+1. Fork repo
+2. Clone repo 
+3. Save repo in desired location on local machine
+
+
+
 
