@@ -2,6 +2,10 @@
 
 ## Author : Taffie Theuri
 
+## Live Link
+
+https://taffie-theuri.github.io/Food-recipe-search-project/
+
 
 ## Projection description
 
