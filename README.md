@@ -33,5 +33,9 @@ Then, open the index.html file on your browser to run the application.
 3. Save repo in desired location on local machine
 
 
+## License 
+MIT License
+This project uses the MIT license.
+
 
 
